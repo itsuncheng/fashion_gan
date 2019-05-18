@@ -1,6 +1,6 @@
 # fashion_gan
 
-This is the official repository for the HKUST COMP 4901J Final Project that contains all the relevant source code, jupyter notebooks, and configuration files for the paper.
+This is the official repository for the HKUST COMP 4901J Final Project that contains all the relevant source code, jupyter notebooks, and configuration files for the paper. The paper is also included in the repository and can be found [here](https://github.com/itsuncheng/fashion_gan/blob/master/COMP_4901J_Final_Report%20FULL.pdf).
 
 ## Brief Description of the Files
 
